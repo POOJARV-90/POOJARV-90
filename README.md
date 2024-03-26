@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/POOJARV-90/POOJARV-90/assets/132448302/a07881e7-84d2-461c-9540-7c295953e360)
+![github-header-image (2)](https://github.com/POOJARV-90/POOJARV-90/assets/132448302/ed228cf0-0344-422e-8777-41a341228a13)
 
 
 Full stack Developer
