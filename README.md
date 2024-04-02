@@ -1,5 +1,5 @@
 
-![14177fa3edbc68334fd1d578f473732f](https://github.com/POOJARV-90/POOJARV-90/assets/132448302/f7767ad1-052c-49fb-bd6f-3559affe09d7)
+<img src="https://github.com/POOJARV-90/POOJARV-90/assets/132448302/f7767ad1-052c-49fb-bd6f-3559affe09d7" alt="Profile Image" style="width:100%; height:600px">
 
 
 FULL STACK DEVELOPER
