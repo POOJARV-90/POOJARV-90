@@ -1,5 +1,19 @@
 
-<img src="https://github.com/POOJARV-90/POOJARV-90/assets/132448302/f7767ad1-052c-49fb-bd6f-3559affe09d7" alt="Profile Image" style="width:100%; height:600px">
+<div style="width:100%; height:250px; overflow:hidden;">
+    <img src="https://github.com/POOJARV-90/POOJARV-90/assets/132448302/f7767ad1-052c-49fb-bd6f-3559affe09d7" alt="Profile Image" style="width:100%; height:100%; object-fit:cover;">
+</div>
+
+FULL STACK DEVELOPER
+--------------------
+
+Hi there, I'm Pooja. Engaged in MERN stack projects, striving to craft efficient and user-friendly web solutions. Let's code and create impactful experiences together
+
+* 🌍 I'm based in Mumbai
+* ✉️ You can contact me at [poojarv366@gmail.com](mailto:poojarv366@gmail.com)
+* 🧠 I'm learning Next.js, Tailwind
+* 🤝 I'm open to collaborating on Open-source projects related to front-end development with React and Creating APIs and backend systems using Node.js and Express.
+* ⚡ When I'm not coding, you'll likely find me engrossed in fiction books, unwinding and rejuvenating.
+
 
 
 FULL STACK DEVELOPER
